@@ -1,0 +1,11 @@
+*
+
+!ligotools/
+!ai_documentation.txt
+!BBH_events_v3.json
+!environment.yml
+!*.hdf5
+!*.ipynb
+!*.md
+!.gitignore
+
